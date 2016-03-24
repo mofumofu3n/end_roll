@@ -2,8 +2,13 @@ html {
   font-size: 40px;
 }
 
-body {
+/*body {
   text-align: center;
+}*/
+
+#background {
+  position: absolute;
+  top: 0;
 }
 
 #container {
@@ -22,4 +27,5 @@ body {
   width: 100%;
   margin: -1.5em 0 0 -50%;
   line-height: 200%;
+  color: #fff
 }
