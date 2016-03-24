@@ -3,5 +3,10 @@ require('textillate');
 require('letteringjs')
 
 $(function() {
-  $('.tlt').textillate();
+  $('.tlt').textillate({
+    in: {
+      effect: 'fadeInLeft',
+      sequence: true
+    }
+  });
 })
