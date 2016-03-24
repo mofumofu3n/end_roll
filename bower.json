@@ -17,9 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "2.2.2",
-    "letteringjs": "^0.7.0",
-    "animate.css": "^3.5.1",
     "textillate": "^0.4.0"
   }
 }
