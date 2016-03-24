@@ -1,0 +1,25 @@
+{
+  "name": "end_roll",
+  "homepage": "https://github.com/mofumofu3n/end_roll",
+  "authors": [
+    "mofumofu3n <mofumofu3n@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.2",
+    "letteringjs": "^0.7.0",
+    "animate.css": "^3.5.1",
+    "textillate": "^0.4.0"
+  }
+}

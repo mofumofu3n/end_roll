@@ -1,0 +1,24 @@
+{
+  "name": "end_roll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofumofu3n/end_roll.git"
+  },
+  "authors": [
+    "mofumofu3n <mofumofu3n@gmail.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mofumofu3n/end_roll/issues"
+  },
+  "homepage": "https://github.com/mofumofu3n/end_roll#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
