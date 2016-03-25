@@ -1,5 +1,5 @@
 # require
-* npm
+* node (v0.12)
 * bower
 * php
 
