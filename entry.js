@@ -2,6 +2,8 @@ window.$ = window.jQuery = require('jquery');
 require('textillate');
 require('letteringjs')
 window.GLSlideshow = require('./js/GLSlideshow.js')
+require('./css/app.css')
+require('./bower_components/animate.css/animate.css')
 
 $(function() {
   $('.tlt').textillate({
