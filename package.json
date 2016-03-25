@@ -20,6 +20,8 @@
   "homepage": "https://github.com/mofumofu3n/end_roll#readme",
   "devDependencies": {
     "bower-webpack-plugin": "^0.1.9",
-    "webpack": "^1.12.14"
+    "webpack": "^1.12.14",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
   }
 }
